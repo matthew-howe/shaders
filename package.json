@@ -1,0 +1,25 @@
+{
+  "name": "shader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthew-howe/shaders.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthew-howe/shaders/issues"
+  },
+  "homepage": "https://github.com/matthew-howe/shaders#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "serve-index": "^1.9.1"
+  }
+}
