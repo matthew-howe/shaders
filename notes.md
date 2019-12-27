@@ -15,3 +15,9 @@
 * The vertex shader main function must set the value of gl_position and it uses the projectionMatrix, the modelViewMatrix and the position of the vertex to do this.
 * The fragment shader main function must set the value of gl_FragColor to a rgba format value.
 * Each channel of a rgba format color takes a value between 0.0 and 1.0
+
+#### Uniforms
+
+* Pass values from the control program to our shaders.
+
+  #### 
