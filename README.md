@@ -2,7 +2,8 @@
 
 A gallery of my progression learning shaders.
 
-#### Steps for running locally
+## Steps for running locally
+
 ```shell
 git clone https://github.com/matthew-howe/shaders mh-shaders
 cd mh-shaders
@@ -10,13 +11,15 @@ npm install
 npm start
 ```
 
+Open localhost:3000 in your browser to view the shader directory.
 
-
-## color changing over time
+## Color changing over time
 
 ![color changing image](img/1.gif)
 
 Uses the elapsed time to paint different colors.
+
+##### Fragment Shader
 
 ```glsl
 void main (void)
