@@ -1,4 +1,4 @@
-## Shaders
+# Shaders
 
 A gallery of my progression learning shaders.
 
