@@ -1,6 +1,6 @@
 ## color changing over time
 
-![color changing image](C:\Users\mh\dev\shader\img\1.gif)
+![color changing image](../../img/1.gif)
 
 Uses the elapsed time to paint different colors.
 
